@@ -1,5 +1,4 @@
-- 👋 Hi, I’m RulasBoy, I create programs and I like to try new stuff related to programming and electronic circuits.
-- 👀 I’m interested in developing applications and electronic circuits; I'm kind of obssesed in OLED displays.
-- 🌱 I’m currently learning JavaScript (Node.js), Python, and a lot of Linux distros (specially aiming OS for Raspberry Pi).
-- 💞️ I’m looking to collaborate on any project that you think I could help you with, I would like to develop my social skills and teamwork experience.
-- 📫 How to reach me: you can find me on Discord like Rulas Boy#4918.
+# About me
+Computer Systems Engineer.
+
+I'm currently studying on a bootcamp for Data Analysis.
